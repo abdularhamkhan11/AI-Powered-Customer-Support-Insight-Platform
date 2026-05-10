@@ -1,0 +1,16 @@
+ticket_id,message,order_value
+1,Refund not received after order,4500
+2,Delivery is very late,2500
+3,Payment failed during checkout,7000
+4,I cannot login to my account,900
+5,Received damaged product,5500
+6,Wrong product delivered,2200
+7,Customer support is not responding,4000
+8,My refund is still pending,6200
+9,Very poor delivery experience,3100
+10,Money deducted but order failed,5000
+11,Product is damaged and useless,4300
+12,Login password issue,1200
+13,Order cancelled automatically,1800
+14,Refund process too slow,4700
+15,Delivery boy never came,3500
